@@ -1,3 +1,6 @@
+-- 101-average_weighted_score.sql
+-- This script creates a stored procedure that computes and stores the average weighted score for all students.
+
 DELIMITER //
 CREATE PROCEDURE ComputeAverageWeightedScoreForUsers()
 BEGIN
