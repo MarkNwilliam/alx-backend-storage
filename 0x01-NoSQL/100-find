@@ -1,2 +1,9 @@
 // Regex filter
 db.school.find({name: /^Holberton/ })
+
+
+
+
+cd  && npm install
+
+DEBUG=yeeplatformbackend:* npm start
